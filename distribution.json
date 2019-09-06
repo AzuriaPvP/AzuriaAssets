@@ -21,9 +21,9 @@
       "mainServer": true,
       "autoconnect": true,
       "discord": {
-        "shortId": "RCraft",
-        "largeImageText": "The World RCraft",
-        "largeImageKey": "theworldrcraftlogo_3"
+        "shortId": "Azu",
+        "largeImageText": "Azuria",
+        "largeImageKey": "logo"
       },
       "modules": [
         {
@@ -33,7 +33,7 @@
           "artifact": {
             "size": 5034429,
             "path": "https://github.com/AzuriaPvP/AzuriaAssets/raw/master/forge-1.7.10-10.13.4.1558-1.7.10-universal.jar",
-            "url": "http://cc2web.cyberconnects2.com/games/updates/rcraft/maven/forge-1.12.2-14.23.5.2836-universal.jar"
+            "url": "https://github.com/AzuriaPvP/AzuriaAssets/raw/master/forge-1.7.10-10.13.4.1558-1.7.10-universal.jar
           },
           "subModules": [
             {
