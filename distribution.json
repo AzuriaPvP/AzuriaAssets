@@ -190,6 +190,15 @@
                 "url": "http://cc2web.cyberconnects2.com/games/updates/rcraft/libraries/jopt-simple-5.0.3.jar"
               }
             },
+			{
+              "id": "net.minecraftforge:MercuriusUpdater:1.11.2",
+              "name": "MercuriusUpdater",
+              "type": "Library",
+              "artifact": {
+                "size": 15107,
+                "url": "http://cc2web.cyberconnects2.com/games/updates/rcraft/libraries/MercuriusUpdater-1.12.2-1.0.0.14.jar"
+              }
+            },
             {
               "id": "net.java.dev.jna:jna:4.4.0",
               "name": "jna-4.4.0",
@@ -207,16 +216,8 @@
                 "size": 54961,
                 "url": "http://cc2web.cyberconnects2.com/games/updates/rcraft/libraries/maven-artifact-3.5.3.jar"
               }
-            },
-            {
-              "id": "net.minecraftforge:MercuriusUpdater:1.11.2",
-              "name": "MercuriusUpdater",
-              "type": "Library",
-              "artifact": {
-                "size": 15107,
-                "url": "http://cc2web.cyberconnects2.com/games/updates/rcraft/libraries/MercuriusUpdater-1.12.2-1.0.0.14.jar"
-              }
             }
+            
           ]
         }
       ]
