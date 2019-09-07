@@ -191,13 +191,14 @@
               }
             },
 			{
-              "id": "net.minecraftforge:MercuriusUpdater:1.11.2",
-              "name": "MercuriusUpdater",
-              "type": "Library",
-              "artifact": {
-                "size": 15107,
-                "url": "http://cc2web.cyberconnects2.com/games/updates/rcraft/libraries/MercuriusUpdater-1.12.2-1.0.0.14.jar"
-              }
+               "id": "net.minecraftforge:MercuriusUpdater:1.11.2",
+               "name": "MercuriusUpdater",
+               "type": "Library",
+               "artifact": {
+                   "size": 15146,
+                   "MD5": "7556d06064ebbfa3b334a15092d725d0",
+                   "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/MercuriusUpdater-1.11.2.jar"
+                }
             },
             {
               "id": "net.java.dev.jna:jna:4.4.0",
