@@ -33,6 +33,7 @@
           "artifact": {
             "size": 5034429,
             "path": "https://github.com/AzuriaPvP/AzuriaAssets/raw/master/forge-1.7.10-10.13.4.1558-1.7.10-universal.jar",
+			"MD5": "e69118167ebc00750f7cdc0a92603d64",
             "url": "https://github.com/AzuriaPvP/AzuriaAssets/raw/master/forge-1.7.10-10.13.4.1558-1.7.10-universal.jar"
           },
           "subModules": [
